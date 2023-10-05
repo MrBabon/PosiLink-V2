@@ -1,0 +1,8 @@
+{
+  "name": "PosiLink-V2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MrBabon/PosiLink-V2.git",
+  "author": "MrBabon <christophedanna06@gmail.com>",
+  "license": "MIT"
+}
