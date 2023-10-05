@@ -37,6 +37,7 @@ gem "redis", "~> 4.0"
 gem "devise"
 gem "pundit"
 gem "rails_admin", "3.0"
+gem "blazer"
 ########################################
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
